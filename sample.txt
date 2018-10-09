@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Writing in my text file
 Bhoooola!
+=======
+Writing in my text file
+Bhoooola!
+>>>>>>> 7cbaa6ef51166585a53d61caa11cbe9a1c6e5815
