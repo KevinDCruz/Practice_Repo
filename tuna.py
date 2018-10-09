@@ -1,2 +1,3 @@
 def fish():
-    print("I'm a Tuna fish")
+    hey = print("I'm a Tuna fish")
+    return hey

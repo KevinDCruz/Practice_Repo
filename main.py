@@ -3,9 +3,6 @@ import random
 
 
 tuna.fish()
-a = random.randrange(1, 500)
+#a = random.randrange(0, 3)
 
-print(a)
-
-
-print("Hey")
+#print(a)
